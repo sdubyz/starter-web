@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harun Gumus -- gsda@sad.com
 
 # THANKS
 
