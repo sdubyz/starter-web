@@ -19,7 +19,7 @@ Another one!
 
 ##Copyright
 
-asd
+hehehe
 
 ## How To Contribute
 
