@@ -7,6 +7,7 @@ More changes for myfeature branch.
 ## Purpose
 
 Sample website with plenty of files for demos
+Some fix after stashing.
 
 ##Test
 
