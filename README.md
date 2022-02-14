@@ -18,3 +18,7 @@ Another one!
 ##Copyright
 
 asd
+
+## How To Contribute
+
+asdzxc
